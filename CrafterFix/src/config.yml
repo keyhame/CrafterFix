@@ -1,0 +1,16 @@
+#是否在控制台显示试图触发bug的玩家
+isShowOnServer: true
+
+#是否向op显示试图触发bug的玩家
+isShowToOp: false
+
+#是否将试图触发bug的玩家踢出服务器
+ban:
+  enabled: false
+  #封禁时间(秒为单位,应大于零)
+  time: 60
+
+#警告试图触发bug的玩家，仅当isBan = false 时生效（都踢了怎么警告）
+warning:
+  enabled: false
+  msg: ""
