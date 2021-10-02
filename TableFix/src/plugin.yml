@@ -1,0 +1,5 @@
+name: "TableFix"
+version: "0.3"
+main: "org.keyhame.TableFixer"
+author: "keyhame"
+api-version: "1.12"
